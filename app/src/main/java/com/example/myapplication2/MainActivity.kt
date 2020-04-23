@@ -19,7 +19,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         setSupportActionBar(toolbar)
 
-        var num = 5;
+        var height = 25;
 
 
         fab.setOnClickListener { view ->
